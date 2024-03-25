@@ -37,6 +37,8 @@ This is a simple task management website that allows users to add, delete, and u
 11. View the changes in the Firebase Firestore database
 12. Enjoy the task management website!
     
+## Note
+The `new.sh` file is a shell script that contains the commands a new Firebase project, enables Firestore, and adds the Firebase configuration to the `app.js` file. The script requires the Firebase CLI to be installed on the system. The script can be run using the following command:
 
 ## Hosting to firebase
 1. Install Firebase CLI using the following command:
